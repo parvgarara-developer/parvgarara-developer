@@ -1,99 +1,194 @@
-# Hi, I'm Parv Garara 👋
+<div align="center">
 
-🎓 B.Tech Computer Engineering Student at Indus University, Ahmedabad
-🌐 [Portfolio](https://parvgarara.vercel.app) · 📍 Gujarat, India
+# Hey there, I'm Parv Garara 👋
 
-> "I don't just write code — I build experiences."
+### Computer Engineering Student • AI Developer • Full Stack Builder • Problem Solver
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems.;Training+language+models.;Developing+interactive+experiences.;Learning+through+building." alt="Typing SVG" />
 
-## 👨‍💻 About Me
+<p>
+  <a href="https://parvgarara.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/parv-garara-1714b228b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:parvgararapremier123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-I'm a Computer Engineering student with a deep passion for building
-intelligent systems, interactive web applications, and creative software
-from the ground up. Whether it's training a custom LLM, designing a
-full-stack platform, or crafting a game with survival mechanics — I love
-turning ambitious ideas into real, working products.
-
-I believe in **learning by building**. Every project I take on is a chance
-to go deeper — into architecture, into design, into the math behind the
-magic. I don't just use tools; I try to understand how they work and
-sometimes build my own.
-
-When I'm not coding, I'm probably debugging at 2AM wondering why it
-worked five minutes ago. 😄
+</div>
 
 ---
 
-## 🧠 What I Work With
+> 🚀 Currently seeking Software Engineering and AI internship opportunities.
+
+## 👨‍💻 Quick Overview
+
+* 🎓 B.Tech Computer Engineering student at Indus University, Ahmedabad.
+* 🤖 Passionate about Artificial Intelligence and Full Stack Development.
+* 🧠 Building Alfred, an AI assistant with persistent memory.
+* 💻 Exploring language model fine tuning and real world AI applications.
+* 🎮 Developing interactive learning and gaming experiences.
+
+---
+
+## 🔨 Currently Building
+
+### 🤖 Alfred
+
+A JARVIS inspired AI desktop assistant designed for long term interaction.
+
+**Key Features**
+
+* Persistent memory architecture.
+* Vector database integration.
+* Context aware conversations.
+* Gemini powered intelligence.
+
+---
+
+### 🧠 Code LLM
+
+A custom language model initiative focused on programming tasks.
+
+**Current Focus**
+
+* Fine tuning Qwen models.
+* Dataset preparation.
+* Evaluation pipelines.
+* Transformer architectures.
+
+---
+
+### 🎮 Incident Chronicles
+
+A survival simulation experience built around strategic decision making and player progression.
+
+---
+
+### 🎓 Game Based Learning Platform
+
+An educational platform that teaches programming concepts through engaging gameplay.
+
+---
+
+## 🚀 Featured Projects
+
+| Project                | Description                                                  |
+| ---------------------- | ------------------------------------------------------------ |
+| 🤖 Alfred              | AI desktop assistant with memory and reasoning capabilities. |
+| 🧠 Code LLM            | Fine tuning language models for code generation tasks.       |
+| ♟ Chess Platform       | Real time multiplayer chess application built from scratch.  |
+| 🎮 Incident Chronicles | Survival simulation game focused on immersive mechanics.     |
+| 🎓 Learning Platform   | Teaching programming through game based experiences.         |
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,php,mysql" />
+</p>
 
-### AI / ML
-![Gemini API](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+### Frameworks and Tools
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,angular,postgres,git" />
+</p>
 
-## 🚀 What I'm Building
+### Artificial Intelligence
 
-- 🤖 **Alfred** — A JARVIS-inspired AI desktop assistant with a brain-like
-  memory architecture, vector database, and Gemini API integration
-- 🎮 **Incident Chronicles** — A cross-platform survival simulation mobile
-  app with deep game mechanics
-- 🧑‍🏫 **Game-Based Learning Platform** — An educational game that teaches
-  programming languages through survival-style gameplay
-- ♟️ **Chess.com Clone** — A full-featured multiplayer chess platform
-  built from scratch
-- 🧠 **Code LLM** — Training a custom language model (Qwen2.5) fine-tuned
-  for code generation using transformer architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## ⚙️ Engineering Principles
 
-- Transformer architecture & training LLMs from scratch
-- Advanced RAG systems and vector databases
-- Compiler design and optimization
-- Production-level system architecture and deployment
-
----
-
-## 🎯 Goals
-
-- 🤝 Open to **collaborations** on AI, game dev, or full-stack projects
-- 🔍 Looking for **internship opportunities** in software development or AI/ML
-- 🌱 Always open to **learning from the community**
+* Learn by building.
+* Write maintainable and scalable code.
+* Focus on user experience.
+* Understand systems beyond the abstraction layer.
+* Iterate, improve, and ship.
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
-![Parv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvgararapremier123-dev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvgararapremier123-dev&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://parvgarara.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parv-garara-1714b228b)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/parvgararapremier123-dev)
+* Large language model training and fine tuning.
+* Retrieval augmented generation systems.
+* Vector databases and semantic search.
+* Compiler design and optimization.
+* Production ready system architecture.
+* Cloud deployment practices.
 
 ---
 
-⭐️ *Feel free to explore my repos and drop a star if something interests you!*
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=parvgarara-developer&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvgarara-developer&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvgarara-developer&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parvgarara-developer&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+* Launch Alfred Version 1.
+* Secure a Software Engineering or AI internship.
+* Contribute to impactful open source projects.
+* Publish technical articles documenting my learning journey.
+* Continue building products that solve real problems.
+
+---
+
+## 🤝 Let's Connect
+
+I enjoy discussing software engineering, artificial intelligence, game development, and ambitious ideas that have the potential to become meaningful products.
+
+<p align="center">
+  <a href="https://parvgarara.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+
+  <a href="https://www.linkedin.com/in/parv-garara-1714b228b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:parvgararapremier123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://github.com/parvgarara-developer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Building today. Learning every day.
+
+⭐ Explore my repositories to follow my journey and see what I am creating next.
+
+</div>
