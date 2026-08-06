@@ -32,7 +32,7 @@ status: Seeking Software Engineering / AI Internship
 motto: "Learn by building. Ship and iterate."
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvgarara-developer&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="280" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parvgarara-developer&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="280" alt="Top Languages"/>
 
 - 🎓 &nbsp;B.Tech **Computer Engineering** student at **Indus University, Ahmedabad**
 - 🤖 &nbsp;Passionate about **AI systems** and **full stack development**
@@ -142,7 +142,7 @@ motto: "Learn by building. Ship and iterate."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parvgarara-developer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parvgarara-developer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=parvgarara-developer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 <br/>
@@ -177,7 +177,7 @@ motto: "Learn by building. Ship and iterate."
  └───────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=parvgarara-developer&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=parvgarara-developer&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies"/>
 
 </div>
 
@@ -202,7 +202,7 @@ motto: "Learn by building. Ship and iterate."
 
 <!-- GOALS -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bullseye.png" width="28" /> &nbsp;2026 Goals
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" /> &nbsp;2026 Goals
 
 ```text
 ✅  Secure a Software Engineering / AI internship
