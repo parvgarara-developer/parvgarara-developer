@@ -153,6 +153,36 @@ motto: "Learn by building. Ship and iterate."
 
 ---
 
+<!-- RETRO GAME COMMIT SNAKE -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="28" /> &nbsp;Commit Snake
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║  🕹️  INSERT COIN  ·  PLAYER 1  ·  WATCH THE SNAKE EAT COMMITS  ║
+ ╚══════════════════════════════════════════════════════════════════╝
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parvgarara-developer/parvgarara-developer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parvgarara-developer/parvgarara-developer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/parvgarara-developer/parvgarara-developer/output/github-snake-dark.svg" />
+</picture>
+
+```
+ ┌───────────────────────────────────────────────────────────────┐
+ │  ██░░  SCORE: contributions  ██░░  LEVEL: 2026  ██░░  HI ★  │
+ └───────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=parvgarara-developer&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies"/>
+
+</div>
+
+---
+
 <!-- CURRENTLY LEARNING -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" /> &nbsp;Currently Learning
